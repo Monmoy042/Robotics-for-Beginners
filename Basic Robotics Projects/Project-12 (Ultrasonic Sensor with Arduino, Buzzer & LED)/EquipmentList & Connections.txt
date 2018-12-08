@@ -1,0 +1,24 @@
+// Required Hardware 
+
+1. Arduino UNO
+
+2. Ultrasonic Sensor
+
+3. Buzzer
+
+4. LED
+
+5. 220 ohm Resistor
+
+6. Breadboard
+
+7. Jumper Wire
+
+// Connections
+
+1. vcc(Ultrasonic sensor) to +5V(Arduino)
+2. gnd(Ultrasonic sensor) to gnd(Arduino)
+3. echo pin(Ultrasonic sensor) to digital pin 9(Arduino)
+4. trig pin(Ultrasonic sensor) to digital pin 10(Arduino)
+5. led anode pin to arduino digital pin 13
+6. led cathode pin to arduino gnd pin

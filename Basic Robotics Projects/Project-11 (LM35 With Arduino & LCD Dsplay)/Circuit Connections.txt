@@ -1,0 +1,34 @@
+// LCD Display Connections
+
+1. VSS(LCD) to GND(Arduino)
+2. VDD(LCD) to 5V(Arduino)
+3. V0(LCD) to Pot(Output/Middle pin)
+4. RS(LCD) to 12(Arduino)
+5. R/W(LCD) to GND(Arduino)
+6. E(LCD) to 11(Arduino)
+7. D4(LCD) to 6(Arduino)
+8. D5(LCD) to 5(Arduino)
+9. D6(LCD) to 4(Arduino)
+10. D7(LCD) to 3(Arduino)
+11. A(LCD) to 5V(Arduino)
+12. K(LCD) to GND(Arduino)
+
+
+// LM35 Connections
+
+1. LM35 Output pin to A0(Arduino)
+2. Positive pin to 5V(Arduino)
+3. Negative pin to GND(Arduino)
+
+
+// RGB Connections(Common cathode RGB)
+1. RGB long leg to GND
+2. RGB RED pin to 8(Arduino)
+3. RGB Green pin to 9(Arduino)
+4. RGB Blue pin to 10(Arduino)
+
+
+// Buzzer Connections
+
+1. Buzzer GND pin to GND(Arduino)
+2. Buzzer positive pin to 7(Arduino)

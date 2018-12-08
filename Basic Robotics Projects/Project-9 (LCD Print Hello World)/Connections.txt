@@ -1,0 +1,14 @@
+
+// LCD Display Connections
+1. VSS(LCD) to GND(Arduino)
+2. VDD(LCD) to 5V(Arduino)
+3. V0(LCD) to Pot(Output/Middle pin)
+4. RS(LCD) to 12(Arduino)
+5. R/W(LCD) to GND(Arduino)
+6. E(LCD) to 11(Arduino)
+7. D4(LCD) to 5(Arduino)
+8. D5(LCD) to 4(Arduino)
+9. D6(LCD) to 3(Arduino)
+10. D7(LCD) to 2(Arduino)
+11. A(LCD) to 5V(Arduino)
+12. K(LCD) to GND(Arduino)

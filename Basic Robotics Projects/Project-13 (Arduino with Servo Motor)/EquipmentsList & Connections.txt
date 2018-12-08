@@ -1,0 +1,9 @@
+// Required Hardware
+
+1. Arduino UNO
+2. Servo Motor(Model-SG90)
+
+// Connections
+1. Servo motor +5v to arduino +5v
+2. Servo motor gnd pin to arduino gnd pin
+3. Servo motor signal pin to arduino digital pin 8
